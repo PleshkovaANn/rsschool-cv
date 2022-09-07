@@ -1,5 +1,5 @@
 * ## **Anastasia Pleshkova**
- > ## **Life is a series of choices.**
+ > #### *Life is a series of choices.*
 * ### **Contacts**
 #### **Location:** *Vitebsk, Belarus*
 #### **Phone:** *+375336596240*
