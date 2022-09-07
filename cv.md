@@ -21,4 +21,6 @@ const func = (num) => {
 };
 ```
 ### **Experience**
+#### *-*
 ### **Education**
+#### *2021-2025 - Vitebsk State Technological University*
