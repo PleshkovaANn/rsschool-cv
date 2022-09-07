@@ -12,7 +12,7 @@
 * *JavaScript*
 * *Git*
 ### **Code Example**
-* ```const func = (num) => {
+```const func = (num) => {
   if (num > 0) {
     return num - 1;
   }
