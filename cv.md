@@ -1,5 +1,5 @@
 * ## **Anastasia Pleshkova**
- > ## *Life is a series of choices.*
+ > ## **Life is a series of choices.**
 * ### **Contacts**
 #### **Location:** *Vitebsk, Belarus*
 #### **Phone:** *+375336596240*
@@ -12,10 +12,10 @@
 * #### *JavaScript*
 * #### *Git*
 * ### **Code Example**
-#### `*const func = (num) => {
+#### ```*const func = (num) => {
   if (num > 0) {
     return num - 1;
   }
   return num + 1;
-};*`
+    }*```
 
