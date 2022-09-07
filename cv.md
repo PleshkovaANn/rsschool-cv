@@ -1,4 +1,4 @@
-* ## **Anastasia Pleshkova**
+* # **Anastasia Pleshkova**
  > #### *Life is a series of choices.*
 * ### **Contacts**
 #### **Location:** *Vitebsk, Belarus*
@@ -12,10 +12,11 @@
 * #### *JavaScript*
 * #### *Git*
 * ### **Code Example**
-#### ```*const func = (num) => {
+
+```const func = (num) => {
   if (num > 0) {
     return num - 1;
   }
   return num + 1;
-    }*```
+    }```
 
