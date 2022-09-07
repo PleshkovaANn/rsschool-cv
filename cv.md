@@ -13,7 +13,8 @@
 * #### *Git*
 * ### **Code Example**
 
-```const func = (num) => {
+```javascript
+const func = (num) => {
   if (num > 0) {
     return num - 1;
   }
