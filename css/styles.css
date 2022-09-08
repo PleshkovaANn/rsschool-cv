@@ -1,0 +1,6 @@
+@import "./variables.scss";
+@import "bootstrap/scss/bootstrap.scss";
+@import "./_global.scss";
+@import "./components/sidenav.scss";
+@import "./components/icons.scss";
+@import "./sections/resume-section.scss";
